@@ -14,10 +14,6 @@ h2 {
   color: white;
 }
 
-h1, h2 {
-  font-weight: bold;
-}
-
 .brushes {
 background-color: mediumspringgreen;
 }
@@ -32,4 +28,8 @@ background-color: mediumspringgreen;
 
 .blue {
   color: blue;
+
+}
+bold {
+  font-weight: bold;
 }
